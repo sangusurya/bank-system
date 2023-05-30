@@ -1,0 +1,5 @@
+def sagar(String):
+String1=sangu
+String1=sagar
+String2=and
+print(string+string1+string2+"are good friends")
